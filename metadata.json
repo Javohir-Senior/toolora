@@ -1,0 +1,6 @@
+{
+  "name": "Toolora",
+  "description": "Bilingual online productivity platform combining useful browser-based tools, creator utilities, and a curated AI directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toolora.dev/sitemap.xml
